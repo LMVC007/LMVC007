@@ -1,7 +1,7 @@
 ## 💻  Luiz Miguel Vieira Carvalho
 **`Desenvolvedor Front-End`**
 
-Prazer, meu nome é Luiz Miguel, tenho 18 anos, sou natural de Botucatu. Concluí o ensino médio com ténico integrado em Desenvolvimento de Sistemas. Atualmente cursando Análise e Desenvolvimento de Sistemas na Fatec. Desenvolvedor Front-end, atualmente aprendendo e criando projetos com:
+Prazer, meu nome é Luiz Miguel, tenho 19 anos, sou natural de Botucatu. Concluí o ensino médio com ténico integrado em Desenvolvimento de Sistemas. Atualmente cursando Análise e Desenvolvimento de Sistemas na Fatec. Desenvolvedor Front-end, atualmente aprendendo e criando projetos com:
 
 ### 🤖 Linguagens e Tecnologias
 
